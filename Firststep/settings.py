@@ -61,7 +61,8 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            BASE_DIR / 'Templates'
+            '/home/mikeadawaren/Firstdeply/schoolmgt/Templates',
+            '/home/mikeadawaren/Firstdeply/Templates',
             ],
         'APP_DIRS': True,
         'OPTIONS': {
