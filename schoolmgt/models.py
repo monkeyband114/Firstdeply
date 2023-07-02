@@ -10,6 +10,7 @@ from .managers import CustomUserManager
 from django.contrib.auth.models import AbstractUser
 from phonenumber_field.modelfields import PhoneNumberField
 
+
 gen_chices = (
     ("male", "male"),
     ("female", "female")
